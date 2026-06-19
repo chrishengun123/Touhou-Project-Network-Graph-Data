@@ -1,0 +1,241 @@
+Source,Target,Label
+201,101,Genji’s dialogue with Reimu in touhou 2 suggests the two know each other
+204,101,Marisa is friends with Reimu
+205,101,Mima haunts the Hakurei Shrine and makes fun of Reimu
+205,204,Mima is Marisa’s master
+306,305,Chiyuri is Yumemi’s assistant
+307,101,"In Reimu’s ending in Touhou 3, Ruukoto became Reimu’s maid for some time"
+307,306,Ruukoto is created by Yumemi
+404,403,"Elly is the gatekeeper of Mugenkan, which Yuuka is the master of"
+406,405,Gengetsu is Mugetsu’s older sister
+503,204,Alice and Marisa have interacted with each other multiple times
+503,205,"In one ending, Alice begame Mima’s maid for some time"
+505,504,Mai and Yuki appeared together during their boss fight
+507,506,Yumeko is Shinki’s maid
+604,204,Marisa regularly steals books from Patchouli
+604,603,Both are residents of the Scarlet Devil Mansion
+605,603,Both are residents of the Scarlet Devil Mansion
+605,604,Both are residents of the Scarlet Devil Mansion
+606,101,"Remilia often comes to the Hakurei Shrine during parties, as stated by Reimu in Strange and Bright Nature Deity chapter 1"
+606,603,Both are residents of the Scarlet Devil Mansion
+606,604,"According to Embodiment of Scarlet Devil’s omake text, Remilia and Patchouli are friends"
+606,605,Sakuya is Remilia’s maid
+607,603,Both are residents of the Scarlet Devil Mansion
+607,604,Both are residents of the Scarlet Devil Mansion
+607,605,Both are residents of the Scarlet Devil Mansion
+607,606,Flandre is Remilia’s younger sister
+704,703,Merlin is Lunasa’s younger sister
+705,703,Lyrica is Lunasa’s younger sister
+705,704,Lyrica is Merlin’s younger sister
+707,703,"According to Perfect Cherry Blossom’s character setting text, the Saigyouji family enlisted the Prismriver sisters"
+707,704,"According to Perfect Cherry Blossom’s character setting text, the Saigyouji family enlisted the Prismriver sisters"
+707,705,"According to Perfect Cherry Blossom’s character setting text, the Saigyouji family enlisted the Prismriver sisters"
+707,706,Yuyuko is Youmu’s Mistress
+708,702,Chen is Ran’s shikigami
+709,101,Yukari interacts with Reimu a lot
+709,204,Yukari interacts with Marisa occasionally
+709,702,Chen takes orders from Yukari
+709,707,Yukari and Yuyuko are friends
+709,708,Ran is Yukari’s shikigami
+801,101,Suika often hangs around at the Hakurei Shrine and interacts with Reimu
+801,709,Suika is stated to be one of Yukari’s friends
+905,904,Tewi lives with and often plays pranks on Reisen
+906,904,Both are residents of Eientei
+906,905,Eirin is Reisen’s Master
+907,904,Both are residents of Eientei
+907,905,Reisen is Kaguya’s pet and takes orders from her
+907,906,Kaguya is Eirin’s master and friend
+908,903,Mokou and Keine are friends
+908,907,Mokou and Kaguya are rivals
+1001,101,Aya regularly gives newspapers to the Hakurei Shrine and interviews Reimu
+1004,707,Yuyuko is appointed by Eiki
+1004,1003,Komachi is Eiki’s subordinate
+1102,1101,Minoriko is Shizuha’s younger sister
+1105,101,Sanae and Reimu are friendly rivals
+1105,204,Sanae and Marisa are friends
+1106,1105,Sanae serves Kanako
+1107,1105,Sanae serves Suwako
+1107,1106,Suwako and Kanako are friends
+1201,801,Iku has interacted with Suika a couple times
+1202,801,Tenshi gave Suika some land in heaven
+1202,1201,Tenshi and Iku know each other well
+1302,1301,Parsee and Yamame teamed up in Foul Detective Satori chapter 34 to 36
+1303,204,"Yuugi often invites Marisa over to drink, as stated in Symposium of Post Mysticism part 4"
+1303,801,Yuugi and Suika are friends based on their dialogue in Reimu and Suika’s scenario in Subterranean Animism
+1305,702,"Based on Rin and Ran’s dialogue in Unfinished Dream of All Living Ghost, Rin and Chen are friends"
+1305,1304,Rin is Satori’s pet
+1306,1106,Kanako gave Yatagarasu to Utsuho
+1306,1304,Utsuho is Satori’s pet
+1306,1305,Utsuho and Rin are friends
+1307,1304,Koishi is Satori’s younger sister
+1307,1305,Rin is Koishi’s pet
+1307,1306,Utsuho is Koishi’s pet
+1401,1305,"In Unfinished Dream of All Living Ghost, Nazrin knows Rin well enough to call her by nickname and Rin calls Nazrin a friend"
+1402,101,"Kogasa forged Reimu’s throwing needles, as shown in Wild and Horned Hermit chapter 27"
+1403,1401,Both are residents of Myouren Temple
+1404,1401,Both are residents of Myouren Temple
+1404,1403,Both are residents of Myouren Temple
+1405,1401,Shou is Nazrin’s master
+1405,1403,Both are residents of Myouren Temple
+1405,1404,Both are residents of Myouren Temple
+1406,101,Byakuren and Reimu are religious rivals and competed with each other during the events of Hopeless Masquerade
+1406,1401,Both are residents of Myouren Temple
+1406,1403,Both are residents of Myouren Temple
+1406,1404,Both are residents of Myouren Temple
+1406,1405,Byakuren is Shou’s worshipper and Shou is Byakuren’s disciple
+1407,1401,Both are residents of Myouren Temple
+1407,1403,Both are residents of Myouren Temple
+1407,1404,Both are residents of Myouren Temple
+1407,1405,Both are residents of Myouren Temple
+1407,1406,Both are residents of Myouren Temple
+1601,1001,Hatate and Aya are rivals
+1701,101,The Three Fairies of Light live near the Hakurei Shrine and often plays pranks on Reimu
+1701,204,The Three Fairies of Light and Marisa are friendly acquaintances
+1701,503,The Three Fairies of Light interacted with Alice a couple times
+1701,602,The Three Fairies of Light interacted with Cirno a couple times
+1702,101,The Three Fairies of Light live near the Hakurei Shrine and often plays pranks on Reimu
+1702,204,The Three Fairies of Light and Marisa are friendly acquaintances
+1702,503,The Three Fairies of Light interacted with Alice a couple times
+1702,602,The Three Fairies of Light interacted with Cirno a couple times
+1702,1701,Both are part of the Three Fairies of Light
+1703,101,The Three Fairies of Light live near the Hakurei Shrine and often plays pranks on Reimu
+1703,204,The Three Fairies of Light and Marisa are friendly acquaintances
+1703,503,The Three Fairies of Light interacted with Alice a couple times
+1703,602,The Three Fairies of Light interacted with Cirno a couple times
+1703,1701,Both are part of the Three Fairies of Light
+1703,1702,Both are part of the Three Fairies of Light
+1801,902,Kyouko and Mystia are in a band called Choujuu Gigaku
+1801,1401,Both are residents of Myouren Temple
+1801,1403,Both are residents of Myouren Temple
+1801,1404,Both are residents of Myouren Temple
+1801,1405,Both are residents of Myouren Temple
+1801,1406,Both are residents of Myouren Temple
+1803,1802,Yoshika is Seiga’s underling
+1805,1403,"According to Byakuren in Antimony of Common Flowers, Futo always plays with Ichirin"
+1805,1804,"According to the characters setting text in Ten Desires, Futo and Tojiko have some sort of connection"
+1806,101,Miko and Reimu are religious rivals and competed with each other during the events of Hopeless Masquerade
+1806,1406,Miko and Byakuren are religious rivals and competed with each other during the events of Hopeless Masquerade
+1806,1803,"According to the characters setting text in Ten Desires, Seiga spread Taoism to Miko"
+1806,1804,Tojiko is Miko’s follower
+1806,1805,Futo is Miko’s follower
+1807,1001,Mamizou and Aya were rivals in Forbidden Scrollery and are drinking partners in Lotus Eaters
+1807,1407,Mamizou and Nue are friends
+1807,1801,Kyouko is fond of Mamizou
+1901,1307,Kokoro considers Koishi to be her nemesis
+1901,1806,Kokoro was offered a new mask of hope by Miko
+1901,1807,Mamizou helped Kokoro develop her emotions during the events of Hopeless Masquerade
+2002,2001,"Both are part of Grassroots Youkai Network, as stated in Who’s Who of Humans & Youkai in Gensokyo"
+2003,2001,"Both are part of Grassroots Youkai Network, as stated in Who’s Who of Humans & Youkai in Gensokyo"
+2003,2002,"Both are part of Grassroots Youkai Network, as stated in Who’s Who of Humans & Youkai in Gensokyo"
+2005,2004,Yatsuhashi is Benben’s younger sister
+2007,101,Shinmyoumaru lived in the Hakurei Shrine for some time during her recovery
+2007,1202,Shinmyoumaru and Tenshi teamed up and got along well during the events of Antimony of Common Flowers
+2007,2006,Shinmyoumaru and Seija worked together during the events of Double Dealing Character
+2008,703,"In Alternative Facts in Eastern Utopia, Raiko joined the Prismriver Sisters and formed the Horismriver Ensemble"
+2008,704,"In Alternative Facts in Eastern Utopia, Raiko joined the Prismriver Sisters and formed the Horismriver Ensemble"
+2008,705,"In Alternative Facts in Eastern Utopia, Raiko joined the Prismriver Sisters and formed the Horismriver Ensemble"
+2008,2004,"Raiko taught Benben how to replace the miracle mallet’s magic with another source, as implied in Double Dealing Character’s omake text"
+2008,2005,"Raiko taught Yatsuhashi how to replace the miracle mallet’s magic with another source, as implied in Double Dealing Character’s omake text"
+2101,101,Kasen became Reimu’s mentor during the events of Wild and Horned Hermit
+2101,204,Kasen has interacted with Marisa quite a lot
+2101,709,Both are sages of Gensokyo
+2101,801,Both were once part of the Big Four of the Mountain
+2101,1003,Kasen interacts with Komachi a lot during the events of Wild and Horned Hermit
+2101,1105,"According to Sanae in Wild and Horned Hermit chapter 2, they meet each other often"
+2101,1303,Both were once part of the Big Four of the Mountain
+2101,1806,Kasen and Miko have met each other in Wild and Horned Hermit chapter 18
+2101,1807,Kasen had a rivalry with Mamizou during Wild and Horned Hermit chapter 32 and invited her for a drinking contest by the end of it
+2102,101,Sumireko often hangs out with Reimu
+2102,204,Sumireko often hangs out with Marisa
+2102,709,Yukari keeps an eye on Sumireko and sometimes helps her
+2102,908,"Based on Sumireko’s scenario in Urban Legend in Limbo, Sumireko and Mokou know each other"
+2102,1807,"In Aya’s interview with Sumireko in Alternative Facts in Eastern Utopia, Sumireko says she hangs out with Mamizou in her city"
+2201,905,"Based on Seiran’s dialogue line “It’s been a while!” in Reisen’s scenario in Legend of Lunatic Kingdom, Seiran and Reisen have known each other before"
+2202,2201,"Ringo and Seiran are business rivals, as seen in Alternative Facts in Eastern Utopia"
+2203,2102,Doremy keeps an eye on Sumireko and helps her on multiple occasions
+2204,906,"In Alternative Facts in Eastern Utopia, Sagume is seen talking with Eirin"
+2205,101,"Clownpiece lives under the Hakurei Shrine, as shown in Visionary Fairies in Shrine"
+2205,602,"Clownpiece is friends with Cirno, as seen in Visionary Fairies in Shrine"
+2205,1701,"Clownpiece is friends with Star, as seen in Visionary Fairies in Shrine"
+2205,1702,"Clownpiece is friends with Luna, as seen in Visionary Fairies in Shrine"
+2205,1703,"Clownpiece is friends with Sunny, as seen in Visionary Fairies in Shrine"
+2207,2205,Hecatia is Clownpiece’s boss
+2207,2206,Hecatia and Junko are friends
+2302,1202,"Since the events of Wild and Horned Hermit, Shion and Tenshi are friends"
+2302,2301,Shion is Joon’s older sister
+2401,602,"Eternity is friends with Cirno, as seen in Visionary Fairies in Shrine"
+2401,1701,"Eternity is friends with Star, as seen in Visionary Fairies in Shrine"
+2401,1702,"Eternity is friends with Luna, as seen in Visionary Fairies in Shrine"
+2401,1703,"Eternity is friends with Sunny, as seen in Visionary Fairies in Shrine"
+2401,2205,"Eternity is friends with Clownpiece, as seen in Visionary Fairies in Shrine"
+2403,101,Aunn guards the Hakurei Shrine
+2403,204,Aunn has talked with Marisa during the events of Hidden Star in Four Seasons and Wild and Horned Hermit
+2404,204,"Based in Marisa’s scenario in Hidden Star in Four Seasons, Narumi and Marisa know each other well"
+2406,2405,Both are Okina’s subordinates
+2407,607,Okina got Flandre to defeat Yuuma during the events of Sunken Fossil World and told flandre to call her if she wishes to fight Yuuma again
+2407,709,Both are sages of Gensokyo
+2407,2101,"In Wild and Horned Hermit chapter 42, Kasen states Okina is an old acquaintance of hers"
+2407,2207,Okina invited Hecatia to a danmaku contest
+2407,2405,Okina is Mai’s Master
+2407,2406,Okina is Satono’s Master
+2503,1004,Kutaka receives orders from Eiki
+2506,2504,Keiki and Yachie are enemies
+2506,2505,Keiki created Mayumi
+2507,2504,Saki and Yachie are leaders from opposing factions
+2507,2506,"According to the Wily Beast and Weakest Creature’s omake text, Saki gets along terribly with Keiki"
+2601,708,"In Unfinished Dream of All Living Ghost, Yuuma calls Ran an old friend"
+2601,2407,Yuuma co-manages the Hell of Blood Pools with Okina
+2601,2504,Yuuma and Yachie are leaders from opposing factions
+2601,2507,Yuuma and Saki are leaders from opposing factions
+2703,1105,"Based on Sanae’s scenario in Unconnected Marketeers, the Moriya Shrine made a promise to Sannyo"
+2704,906,"Based on Marisa’s Imperishable Moon Extra scenario and ending, Misumaru created the incident stones on Eirin’s request"
+2706,1001,"According to Unconnected Marketeer’s omake text, Megumu is the chief of the crow tengu"
+2706,1601,"According to Unconnected Marketeer’s omake text, Megumu is the chief of the crow tengu"
+2706,2705,Tsukasa is Megumu’s right-hand woman
+2707,606,Chimata held a market at the Scarlet Devil Mansion on Remilia’s request
+2707,1104,Chimata and Nitori collaborated during the events of 100th Black Market
+2707,2706,Chimata and Megumu were business partners during the events of Unconnected Marketeers
+2708,2706,"According to Unconnected Marketeer’s omake text, Momoyo and Megumu are friends"
+2801,2504,Biten was a part of the Kiketsu Family
+2802,204,"In Enoko’s ending in Unfinished Dream of All Living Ghost, Enoko went to Marisa for Marisa to inspect Enoko’s jewel"
+2802,2507,Enoko is the captain of the Keiga Family’s surface team and obeys Saki’s orders
+2803,1305,"In Rin’s Scenario in Unfinished Dream of All Living Ghost, Chiyari and Rin have already known each other"
+2803,1306,"In Saki’s Scenario in Unfinished Dream of All Living Ghost, Chiyari knows Utsuho well enough to call her by nickname"
+2803,1401,Nazrin recognizes Chiyari from back when they were both in Former Hell
+2803,2601,Chiyari is part of the Gouyoku Alliance and has talked to Yuuma in Yuuma’s ending in Unfinished Dream of All Living Ghost
+2805,2801,Biten was Zanmu’s subordinate prior to being abandoned
+2805,2802,Enoko was Zanmu’s subordinate prior to being abandoned
+2805,2803,Chiyari was Zanmu’s subordinate prior to being abandoned
+2805,2804,Hisami is Zanmu’s subordinate
+2903,2902,Nareko was put in the pyramid by Chimi to guard it
+2904,1106,"In ending 16 of Fossilized Wonders, it’s stated that Yuiman is an old friend of Kanako"
+2905,905,Reisen (from Imperishable Night) is Toyohime’s former pet
+2905,906,Toyohime and Eirin know each other and Eirin is implied to be Toyohime’s teacher
+2906,906,The omake text of Fossilized Wonders shows Eirin talking to Ariya and implies that they’ve known each other before
+2906,2904,The omake text of Fossilized Wonders suggests that Ariya has a connection to Yuiman
+2907,204,Marisa took Nina sightseeing
+2907,2102,"In Curiosities of Lotus Asia chapter 38, it’s stated that Nina and Sumireko got along"
+3002,3001,Renko and Maribel are friends
+3101,2905,Reisen (from Silent Sinner in Blue) is Toyohime’s current pet
+3102,101,Reimu has been in Kourindou on multiple occasions
+3102,204,Marisa frequently visits Kourindou and calls Rinnosuke by nickname
+3102,605,Sakuya occasionally comes to Kourindou
+3102,709,Rinnosuke does business with Yukari
+3103,905,Reisen (from Imperishable Night) is Yorihime’s former pet
+3103,906,Toyohime and Eirin know each other and Eirin is implied to be Yorihime’s teacher
+3103,2905,Yorihime is Toyohime’s younger sister
+3103,3101,Reisen (from Silent Sinner in Blue) is Yorihime’s current pet
+3201,101,Mizuchi got put under Reimu’s supervision in Foul Detective Satori chapter 44
+3201,801,"In Foul Detective Satori chapter 38, it’s revealed that Suika helped Mizuchi escape"
+3201,1303,"In Foul Detective Satori chapter 33, Yuugi confronts Mizuchi for causing Former Hell be on lockdown, then helped her escape in chapter 38"
+3201,1804,Mizuchi and Tojiko bond over being vengeful spirits in Foul Detective Satori chapter 45
+3301,204,Marisa is a regular customer of Geidontei and often talks with Miyoi
+3301,801,"From Lotus Eaters chapter 6 onwards, Suika lets Miyoi stay in her Ibuki Gourd in exchange for keeping Geidontei open late"
+3301,1001,Aya is a regular customer at Geidontei and often talks with Miyoi
+3301,1807,Mamizou is a regular customer at Geidontei and often talks with Miyoi
+3301,2302,"Shion sometimes goes to Geidontei, getting miso and cheap sake on the house, starting from Lotus Eaters chapter 62"
+3401,101,"In Forbidden Scrollery, Reimu frequently goes to Suzunaan and keeps an eye on Kosuzu"
+3401,204,"Marisa borrows books from Kosuzu, as shown in Forbidden Scrollery chapter 12"
+3401,1001,"Kosuzu and Aya are business partners, starting from Forbidden Scrollery chapter 33"
+3401,1807,Mamizou often visits Suzunaan and talks with Kosuzu
+3402,3401,Akyuu and Kosuzu are friends
